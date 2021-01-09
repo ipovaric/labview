@@ -1,0 +1,12 @@
+Documentation: 
+https://openweathermap.org/api
+
+API URL: 
+api.openweathermap.org/data/2.5/weather?
+
+API Key:
+73bd1b5172624640c9af2d8fa6381cf4
+
+
+For a new API handle:
+Input template has to match json structure. Run "JSON to Cluster.vi" to get new template.
