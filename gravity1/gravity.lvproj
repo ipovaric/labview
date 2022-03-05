@@ -11,6 +11,7 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Calculations" Type="Folder">
+			<Item Name="dist_eqn.vi" Type="VI" URL="../Calculations/dist_eqn.vi"/>
 			<Item Name="newton_eqn.vi" Type="VI" URL="../Calculations/newton_eqn.vi"/>
 		</Item>
 		<Item Name="main.vi" Type="VI" URL="../main.vi"/>
