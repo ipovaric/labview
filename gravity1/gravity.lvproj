@@ -15,6 +15,9 @@
 			<Item Name="force_eqn.vi" Type="VI" URL="../Calculations/force_eqn.vi"/>
 			<Item Name="newton_eqn.vi" Type="VI" URL="../Calculations/newton_eqn.vi"/>
 		</Item>
+		<Item Name="Graphing" Type="Folder">
+			<Item Name="format_data.vi" Type="VI" URL="../Graphing/format_data.vi"/>
+		</Item>
 		<Item Name="main.vi" Type="VI" URL="../main.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
