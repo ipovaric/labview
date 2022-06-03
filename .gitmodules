@@ -1,0 +1,3 @@
+[submodule "delacor/DQMH-Tutorial-Series"]
+	path = delacor/DQMH-Tutorial-Series
+	url = https://github.com/TomsLabVIEWAdventure/DQMH-Tutorial-Series.git
